@@ -6,7 +6,7 @@
 .navbar-brand{
     color: black;
     font-size: 2rem;
-    font-family: 'Dancing Script', cursive;
+   font-family: 'Dancing Script', cursive;
     
     font-size: 50px;
 }
@@ -52,6 +52,7 @@
 }
 .hm-pg{
     color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
 .btn1{
@@ -92,6 +93,50 @@ transition: 0.5s;
 .form-control{
     border-color: grey;
     border-radius: 30px;
+}
+.last-cont{
+    background-color: black;
+    color: white;
+}
+.la-int{
+    height:35px;
+    width: 35%;
+    background-color:black;
+    border: 2px solid white;
+    outline: none;
+    color: white;
+    margin-top: 20px;
+    font-weight: 600;
+    padding-left: 4px;
+}
+.btn2{
+    height: 35px;
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    outline: none;
+    margin-left: -10px;
+    border-color: white;
+    width: 8%;
+}
+.messg-box{
+    width: 55%;
+    border-color: rgb(255, 255, 253);
+    padding-left: 4px;
+    
+}
+.nam-box{
+    width: 53%;
+    border-color: rgb(255, 255, 253);
+    outline: none;
+    height: 35px;
+    padding-left: 4px;
+}
+.img-cn{
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    margin-right:20px ;
 }
 
     
